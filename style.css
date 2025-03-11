@@ -1,11 +1,12 @@
 /* A simple css reset */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 body,
 html {
     margin: 0;
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family:  Pacifico, sans-serif;
+    font-family: "Dancing Script", cursive;
     box-sizing: border-box;
 }
 
